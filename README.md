@@ -7,4 +7,11 @@ I'm an IT professional with nearly 30 years of experience. I started off as a "p
 
 I've been fortunate (I like to think I've worked hard too) to rise through the ranks and have a role I'm truly proud of. But that role has taken me further away from the my passion. My passion remains directing and hands-on designing and developing software and solutions to problems; business problems. There's nothing more rewarding than being told that you've just made someone's job easier. At heart, I'm a geeky tech' who enjoys watching the broad canvas of patterns, frameworks, solutions and products expand. Keeping up is the tough job.
 
-Since the whole world woke up to the philosophy of Open Source, keeping up has only become harder, in my opinion.
+Since the whole world woke up to the philosophy of Open Source, keeping up has only become harder, in my opinion but the aggregation of very smart people's ideas, efforts, examples and teachings is something I'm keen to make the time to benefit from.   
+
+To add some context to this repo, I think Microservices are a good thing and here to stay (subject to natural evolution). 
+
+They provide achievable solutions to business problems that, even today, get overlooked or kicked down the road, or blatantly ignored despite EVERYONE having suffered from them: performance, scalability, resilience (self healing) and speed to market. I dare say that I'll revise this statement further as we go.
+
+This repo is just the start of my journey into the world of Microservices from scratch - watch this space /repo......
+
