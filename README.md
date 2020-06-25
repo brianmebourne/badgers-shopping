@@ -11,7 +11,15 @@ Since the whole world woke up to the philosophy of Open Source, keeping up has a
 
 To add some context to this repo, I think Microservices are a good thing and here to stay (subject to natural evolution). 
 
-Besides the concepts of "API-everything" and domain-driven problem solving (which is still very important, generally, as well as to me personally), they help us solve problems that, even today, get overlooked or kicked down the road, or blatantly ignored despite EVERYONE having suffered from them: performance, scalability, resilience (self healing) and speed to market. These are VERY real issues that remain commonplace, not just in legacy systems but in new products too. Vertical scaling is not the answer (not long term answer, anyway). Its hard and expensive. I dare say that I'll revise this statement further as we go.
+Besides the concepts of "API-everything" and domain-driven problem solving (which is still very important, generally, as well as to me personally), they help us solve problems that, even today, get overlooked or kicked down the road, or blatantly ignored despite EVERYONE having suffered from them. In no particular order:
+
+* Performance
+* Scalability
+* Resilience (self healing)
+* Security
+* and speed to market
+
+These are VERY real issues that remain commonplace, not just in legacy systems but in new products too. Vertical scaling is not the answer (not long term answer, anyway). Its hard and expensive. I dare say that I'll revise this statement further as we go.
 
 This repo is just the start of my journey into the world of Microservices from scratch - watch this space /repo......
 
